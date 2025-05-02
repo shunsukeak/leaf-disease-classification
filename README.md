@@ -19,3 +19,15 @@ It leverages lightweight models on the device side and powerful models on the se
     - **13.91% enhancement** in the accuracy-cost trade-off compared to methods that transmit full images
 
 ---
+
+## Dataset
+
+- Dataset Preparation: 
+- Go to: https://github.com/spMohanty/PlantVillage-Dataset
+
+- Download the repository
+- Go to: ./PlantVillage-Dataset/raw/color
+
+- Change the dataset style as follows:
+    - ./PlantVillage-Dataset/raw/color/disease/<disease folders...>
+    - ./PlantVillage-Dataset/raw/color/healthy/<healthy folders...>

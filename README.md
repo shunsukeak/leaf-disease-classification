@@ -1,4 +1,4 @@
-# Leaf Disease Classification
+# Leaf Disease Classification - LiteLeafNet
 
 This project provides a **lightweight and efficient pipeline for leaf disease detection**, splitting the task into two subtasks:
 
